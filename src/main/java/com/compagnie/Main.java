@@ -24,7 +24,7 @@ public class Main {
         // Actions sur le vol
         volParisNyc.planifierVol();
         pilote.affecterVol();
-
+g
         // Simulation d'une réservation par le passager
         passager.reserverVol(volParisNyc);
 
